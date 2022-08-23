@@ -1,1 +1,1 @@
-# PA-GM
+# Position-Structure-DGM
